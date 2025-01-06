@@ -3,8 +3,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket-Lifecycle</h1><br /> A lifecycle on the typical lifecycle of tickets.
-<p>
+<h1>osTicket - Ticket-Lifecycle</h1> A lifecycle on the typical lifecycle of tickets.<br />
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
