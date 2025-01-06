@@ -5,7 +5,10 @@
 
 <h1>osTicket - Ticket-Lifecycle
 <br />
-
+  
+<p>  
+  A lifecycle on the typical lifecycle of tickets.
+<p>
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
