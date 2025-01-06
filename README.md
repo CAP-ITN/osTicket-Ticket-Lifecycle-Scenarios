@@ -3,11 +3,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket-Lifecycle
-<br />
-  
-<p>  
-  A lifecycle on the typical lifecycle of tickets.
+<h1>osTicket - Ticket-Lifecycle</h1><br /> A lifecycle on the typical lifecycle of tickets.
 <p>
 <h2>Environments and Technologies Used</h2>
 
