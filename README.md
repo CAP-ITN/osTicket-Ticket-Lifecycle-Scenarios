@@ -59,9 +59,11 @@ An end-user (Fernando) submits a ticket requesting an Adobe upgrade for the Acco
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![osTicketLifeCycle7](https://github.com/user-attachments/assets/f6fd625f-cdb8-4f2c-9fe4-6f081f662eec)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+An end-user (Billy Ray) submits a ticket reporting that the CFO’s laptop will not turn on. Help Desk Agent Rick reviews the ticket, assigns it a Sev-B priority under the Support department, and begins troubleshooting. After diagnosing a faulty power adapter, Rick replaces it with a new one, verifies the laptop is functioning properly, and closes the ticket.
 </p>
 <br />
