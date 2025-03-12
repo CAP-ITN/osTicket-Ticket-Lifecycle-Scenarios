@@ -39,10 +39,12 @@ The end-user (Billy.Ray) submits a critical ticket reporting that the entire mob
 <br />
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![osTicketLifeCycle5](https://github.com/user-attachments/assets/316d6e9a-f9ee-4649-8cf7-9c2375642516)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After investigating the issue, (Online Banking Department) Bob determined that a recent update to the banking system caused the outage. To resolve the issue, Bob rolled back the update, which immediately restored online and mobile banking services. The software vendor was notified about the faulty update, and with systems back to normal, the incident was marked as resolved, ensuring uninterrupted service for customers.
 </p>
 <br />
 
