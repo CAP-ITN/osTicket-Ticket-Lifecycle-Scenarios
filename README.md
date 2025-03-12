@@ -49,10 +49,12 @@ After investigating the issue, (Online Banking Department) Bob determined that a
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![osTicketLifeCycle6](https://github.com/user-attachments/assets/036afdc2-557f-4339-b3d2-b379bd960af0)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+An end-user (Fernando) submits a ticket requesting an Adobe upgrade for the Accounting Department, as the current version is broken. Help Desk Agent Rick reviews the ticket, notes that priority, department, SLA, and assignment are unassigned, and then updates it to Sev-B under the Support department. After investigating, Rick discovered that only two employees in the Accounting Department were affected, rather than the entire department. Based on this, he downgraded the SLA to Sev-C to reflect the lower urgency. He then performed a computer reset on both affected machines, which successfully restored access to Adobe, resolving the issue before closing the ticket.
 </p>
 <br />
 
