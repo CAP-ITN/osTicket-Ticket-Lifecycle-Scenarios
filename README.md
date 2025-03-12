@@ -18,13 +18,16 @@
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+Admin/Analyst Login Page:
+http://localhost/osTicket/scp/login.php 
 
-<h2>Installation Steps</h2>
+End Users osTicket URL:
+http://localhost/osTicket 
+
+NOTE: These links above will not work unless you are within the network environment created.
+
+
+<h2>Ticket LifeCycle</h2>
 
 
 ![osTicketLIfeCycle3](https://github.com/user-attachments/assets/78e1c5aa-9dac-49a3-b3eb-432c1b5414ad)
@@ -32,7 +35,7 @@
 <p>
 </p>
 <p>
-The end-user (Billy.Ray) submits a critical ticket reporting that the entire mobile and online banking system is down. Help Desk Agent Rick reviews the ticket, noting that priority, department, SLA, and assignment are initially unassigned. Rick updates the ticket to Sev-A priority (1-hour response, 24/7 support), assigns it to the Online Banking Department as he does not have permissions for this incredibly important task.
+The end-user (Billy.Ray) submits a critical ticket reporting that the entire mobile and online banking system is down. Help Desk Agent Rick reviews the ticket, noting that priority, department, SLA, and assignment are initially unassigned. Rick updates the ticket to Sev-A priority (1-hour response, 24/7 support), assigns it to the Online Banking Department as he does not have permissions for this critical outage.
 <br />
 
 <p>
