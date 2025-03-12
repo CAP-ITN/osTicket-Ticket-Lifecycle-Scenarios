@@ -16,7 +16,13 @@
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>List of Links/Notes</h2>
+
+SLA Format
+Sev-A (1 hour, Schedule: 24/7)
+Sev-B (4 hours, Schedule: 24/7)
+Sev-C (8 hours, Business Hours)
+
 
 Admin/Analyst Login Page:
 http://localhost/osTicket/scp/login.php 
@@ -27,7 +33,7 @@ http://localhost/osTicket
 NOTE: These links above will not work unless you are within the network environment created.
 
 
-<h2>Ticket LifeCycle</h2>
+<h2>Ticket LifeCycle 1</h2>
 
 
 ![osTicketLIfeCycle3](https://github.com/user-attachments/assets/78e1c5aa-9dac-49a3-b3eb-432c1b5414ad)
@@ -48,6 +54,8 @@ After investigating the issue, (Online Banking Department) Bob determined that a
 </p>
 <br />
 
+
+<h2>Ticket LifeCycle 2</h2>
 <p>
 
 ![osTicketLifeCycle6](https://github.com/user-attachments/assets/036afdc2-557f-4339-b3d2-b379bd960af0)
@@ -58,6 +66,7 @@ An end-user (Fernando) submits a ticket requesting an Adobe upgrade for the Acco
 </p>
 <br />
 
+<h2>Ticket LifeCycle 3</h2>
 <p>
   
 ![osTicketLifeCycle7](https://github.com/user-attachments/assets/f6fd625f-cdb8-4f2c-9fe4-6f081f662eec)
