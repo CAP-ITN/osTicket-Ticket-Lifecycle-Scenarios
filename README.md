@@ -26,12 +26,13 @@
 
 <h2>Installation Steps</h2>
 
+
+![osTicketLIfeCycle3](https://github.com/user-attachments/assets/78e1c5aa-9dac-49a3-b3eb-432c1b5414ad)
+
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+The end-user (Billy.Ray) submits a critical ticket reporting that the entire mobile and online banking system is down. Help Desk Agent Rick reviews the ticket, noting that priority, department, SLA, and assignment are initially unassigned. Rick updates the ticket to Sev-A priority (1-hour response, 24/7 support), assigns it to the Online Banking Department as he does not have permissions for this incredibly important task.
 <br />
 
 <p>
